@@ -3,7 +3,7 @@ Life had taken a precious thing away from me for a really long time, and once I 
 
 I love innvation and new ideas! My aim since childhood was never really to work at google or apple etc. It was to be a part of something new, something that took the planet earth
 to a different league. Leaving a ever-chagning legacy to the upcoming genaration, opening new doors of creativity with the ultimate long term of unleashing power and intelligence
-which makes it unable to make life extinct.
+which makes time unable to make life extinct.
 
 And then, I discovered coding as a tool to innovate.
 
