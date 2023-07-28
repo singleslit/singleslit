@@ -7,7 +7,7 @@ which makes it unable to make life extinct.
 
 And then, I discovered coding as a tool to innovate.
 
-"If you live each day as if it was your last, someday you will most certainly be right"
+"If you live each day as if it was your last, someday you will most certainly be right"-Steve Jobs
 
 <!---
 singleslit/singleslit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
